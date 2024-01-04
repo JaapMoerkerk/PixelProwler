@@ -11,6 +11,6 @@ The extension is made using plain HTML, CSS and JavaScript. It is mostly JavaScr
 There are no additional packages used.
 ## Platform and purpose
 This is mostly a practice project that I decided to publish.
-The project is meant for desk- en laptop screens, as it is a Chrome extension.
+The project is meant for desk- and laptop screens, as it is a Chrome extension.
 ## Third party inspiration/referrals
-There are no references.
+[w3schools toggle switch](https://www.w3schools.com/howto/howto_css_switch.asp)
